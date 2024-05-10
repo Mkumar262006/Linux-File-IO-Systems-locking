@@ -75,8 +75,8 @@ close (fd);
 return 0;
 }
 ```
-![image](https://github.com/Mkumar262006/Linux-File-IO-Systems-locking/assets/147139472/6d514417-abc6-4ef3-8e71-9afb61e6f294)
-![image](https://github.com/Mkumar262006/Linux-File-IO-Systems-locking/assets/147139472/9ccd57c0-77c6-4dc5-bbc0-1bb60d22c945)
+![image](./output%201%20exp7.png)
+![image](./output%202%20exp7.png)
 
 
 
